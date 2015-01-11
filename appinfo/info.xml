@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>issuereporter</id>
+    <name>Issue Reporter</name>
+    <description></description>
+    <licence>AGPL</licence>
+    <author>Lukas Reschke</author>
+    <version>8</version>
+    <requiremin>7.0.0</requiremin>
+</info>
